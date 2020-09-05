@@ -327,6 +327,15 @@ label:hover {
   color:#e72f5e;
 }
 
+#instruction{
+  margin:0;
+}
+
+#adjust-buttons{
+  margin:0;
+  padding:0;
+}
+
 /* @media (max-width:850px) {
   #avatar {
     width:70%;
